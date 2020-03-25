@@ -1,0 +1,23 @@
+
+
+body{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+.header-carousel-item {
+    height: 450px;
+}
+
+.bg-cover {
+    background-size: cover;
+    background-position: center center;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, .6);
+}
+.btn{
+    border-width:2px;
+}
+.form-control{
+    border-width:2px;
+}
